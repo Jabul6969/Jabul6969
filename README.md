@@ -5,6 +5,7 @@
 - 📫 How to reach me? admin@jingexz01.online
 - 😄 Pronouns: nah I don't do those kind of things
 - ⚡ Fun fact: irl I always look tired and sleepy
+- 📱 Just started android rom development :>
 
 <!---
 Jabul6969/Jabul6969 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
